@@ -1,7 +1,3 @@
-Here's a README file based on the details provided for your Coursera Course Dataset project:
-
----
-
 # Coursera Course Dataset
 
 This repository contains the Coursera Course Dataset and the accompanying analysis and recommendation system developed as part of a Data Science project.
